@@ -24,7 +24,7 @@ Email : [nadia.k@kkumail.com](mailto:nadia.k@kkumail.com)
 | :--- | :--- | :--- |
 | Essay | [Personal essay pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/personal%20essay.pdf) | [Personal essay](https://docs.google.com/document/d/1j7dfa8cBxh2uVICl0c3DSmL7H7--F5p8NZuMiMv5Ksw/edit?usp=sharing) |
 | Assignment 2 (Topology) | [Assignment_2 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/Assignment%202.pdf) | [Assignment_2](https://docs.google.com/document/d/1sw-w8Dz5w6nXEGYyEwUgYYQbmJ9JemuCIWJJjbvY52Y/edit?usp=sharing) |
-| Assignment 3 (Not Simple)  | [Assignment_3 pkt](https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/Assignment%204.pdf) | [Assignment_3](https://docs.google.com/document/d/1qrAEKZPygD6e7__gTJzPvksJpozZRoVEDHc9mX1ux4E/edit?usp=sharing) |
+| Assignment 3 (Not Simple)  | [Assignment_3 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/Assignment%204.pdf) | [Assignment_3](https://docs.google.com/document/d/1qrAEKZPygD6e7__gTJzPvksJpozZRoVEDHc9mX1ux4E/edit?usp=sharing) |
 | Assignment 4 (TCP-UDP)  | [Assignment_4 pdf](https://github.com/kittithat67/Network-Portfolio/blob/main/Personal%20Assignment/TCP-UDP.pdf) | [Assignment_4](https://docs.google.com/document/d/1Z1C0BlNeRIrMUGcOG1OPELsBIxZgkP73YyHNG49WvNw/edit?usp=sharing) |
 
 ---
