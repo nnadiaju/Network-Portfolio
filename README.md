@@ -33,11 +33,11 @@ Email : [nadia.k@kkumail.com](mailto:nadia.k@kkumail.com)
 
 | LAB | PDF File | Document Link
 | :--- | :--- | :--- |
-| LAB1 | [LAB1_pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) | [LAB1_pdf](https://docs.google.com/document/d/16dxf58SK7oz_rD0bgmk_U2ecUK0ER9qcMXnubcD7mAs/edit?usp=sharing) |
-| LAB2 | [LAB2 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%202.pdf) | [LAB2 pdf](https://docs.google.com/document/d/1HQLK_wOjm2TBZvSjrtJo6l864Zt73RvgLk0FLAwW1pA/edit?usp=sharing) |
-| LAB3 | [LAB3 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Network%20Lab3.pdf) | [LAB3 pdf](https://docs.google.com/document/d/1kB2NloxhvuWdA2cDv6wWpGbsMqKdGdgufjwqXz_NwY4/edit?usp=sharing) |
-| LAB4 | [LAB4 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%204.pdf) | [LAB4 pdf](https://docs.google.com/document/d/1zu7lZ480r36dQNLS8VK9kesthsJwTudWFrpLSVEBVd4/edit?usp=sharing) |
-| LAB5 | [LAB5 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) | [LAB5 pdf](https://docs.google.com/document/d/1cC_GqyKHi5rjmow1L0a_TL46COsZmirvbwx9wAmVJjc/edit?usp=sharing) |
+| LAB1 | [LAB1_pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) | [LAB1](https://docs.google.com/document/d/16dxf58SK7oz_rD0bgmk_U2ecUK0ER9qcMXnubcD7mAs/edit?usp=sharing) |
+| LAB2 | [LAB2 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%202.pdf) | [LAB2](https://docs.google.com/document/d/1HQLK_wOjm2TBZvSjrtJo6l864Zt73RvgLk0FLAwW1pA/edit?usp=sharing) |
+| LAB3 | [LAB3 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Network%20Lab3.pdf) | [LAB3](https://docs.google.com/document/d/1kB2NloxhvuWdA2cDv6wWpGbsMqKdGdgufjwqXz_NwY4/edit?usp=sharing) |
+| LAB4 | [LAB4 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%204.pdf) | [LAB4](https://docs.google.com/document/d/1zu7lZ480r36dQNLS8VK9kesthsJwTudWFrpLSVEBVd4/edit?usp=sharing) |
+| LAB5 | [LAB5 pdf](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) | [LAB5](https://docs.google.com/document/d/1cC_GqyKHi5rjmow1L0a_TL46COsZmirvbwx9wAmVJjc/edit?usp=sharing) |
 
 ---
 
