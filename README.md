@@ -1,14 +1,9 @@
 # Network-Portfolio
 
-**ชื่อ : นางสาวนาเดีย คิดอ่าน** 
-
-
-**รหัสนักศึกษา : 673380513-5**
-
-
-**Section : 2**
-
-Email : nadia.k<span>@</span>kkumail.com
+<p>ชื่อ : นางสาวนาเดีย คิดอ่าน</p>
+<p>รหัสนักศึกษา : 673380513-5</p>
+<p>Section : 2</p>
+<p>Email : nadia.k<span>@</span>kkumail.com</p>
 
 ---
 
