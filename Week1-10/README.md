@@ -31,11 +31,9 @@ Networks are not cables and boxes. **They are agreements under uncertainty.** Yo
 - [x] Week 5: Peer-to-Peer (peer.py)
 - [x] Week 6: MANET Phase-1 (node.py with random port support)
 - [x] Week 7: Store-and-Forward Phase-1 (node.py, message_queue.py)
-
-### 🚧 In Progress / Planning
-- [ ] Week 8: Opportunistic Routing implementation
-- [ ] Week 9: Bio-Inspired Networking (pheromone routing)
-- [ ] Week 10: Quantum-Inspired Networking (conceptual)
+- [x] Week 8: Opportunistic Routing implementation
+- [x] Week 9: Bio-Inspired Networking (pheromone routing)
+- [x] Week 10: Quantum-Inspired Networking (conceptual)
 
 ### 📦 Codebase Structure
 
