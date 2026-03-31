@@ -1,5 +1,7 @@
 # Network-Portfolio
 
+###👤 About Me
+
 <p>ชื่อ : นางสาวนาเดีย คิดอ่าน</p>
 <p>รหัสนักศึกษา : 673380513-5</p>
 <p>Section : 2</p>
@@ -48,7 +50,7 @@ video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
 
 ---
 
-## 🏆 เกียรติบัตร (Certificate)
+## 🏆 Certificate
 **Pre1 Computer Networks - Getting Started with Cisco Packet Tracer**
 
 <img width="851" height="568" alt="certificate" src="https://github.com/nnadiaju/Network-Portfolio/blob/main/Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer.png" />
