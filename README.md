@@ -26,7 +26,7 @@
 
 ---
 
-### LAB(1-5)
+### 🔎 LAB(1-5)
 
 | LAB | PDF File | Document Link
 | :--- | :--- | :--- |
@@ -38,12 +38,12 @@
 
 ---
 
-### Networkprogramming Week1-10
+### 🖥️ Networkprogramming Week1-10
 Link : https://github.com/nnadiaju/Network-Week1-10.git
 
 ---
 
-### Final Project
+### 📚 Final Project
 github : https://github.com/kittithat67/psychic-network.git     
 video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
 
